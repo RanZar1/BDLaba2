@@ -1,7 +1,7 @@
 
-## 1/ ER-диаграмма
+## 1. ER-диаграмма
 
-![ER-диаграмма](er_diagram.png) 
+(er_diagram.png) 
 
-## 2. Hеляционная схема
-![Реляционная схема](relational_schema.png)
+## 2. Реляционная схема
+(relational_schema.png)
